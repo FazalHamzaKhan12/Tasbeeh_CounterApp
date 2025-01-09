@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             ),
                           ),
                           onPressed: _incrementCounter,
-                          child: Text("1"),
+                          child: Text(""),
                         ),
                       ),
                     ),
